@@ -1,21 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
-    <script type="text/javascript">
-        // Prompt for the password
-        var password = prompt("Enter the password:");
-        
-        // Check the password
-        if (password !== "bananna") {
-            // If the password is wrong, show access denied
-            document.body.innerHTML = "Access Denied";
-        } else {
-            // If the password is correct, execute the rest of the code
-            //**     
+//**     
 * @license StewartPrivateLicense-2.0.1
 * Copyright (c) 005Konz 2023
 *
@@ -3028,5 +3011,4 @@
     <!-- Content will be replaced by the script -->
 </body>
 </html>
-
 
