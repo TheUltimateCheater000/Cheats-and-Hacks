@@ -1,5 +1,21 @@
 
-/**     
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <script type="text/javascript">
+        // Prompt for the password
+        var password = prompt("Enter the password:");
+        
+        // Check the password
+        if (password !== "bananna") {
+            // If the password is wrong, show access denied
+            document.body.innerHTML = "Access Denied";
+        } else {
+            // If the password is correct, execute the rest of the code
+            //**     
 * @license StewartPrivateLicense-2.0.1
 * Copyright (c) 005Konz 2023
 *
@@ -3002,4 +3018,15 @@
         iframe.contentWindow.alert("It seems the GitHub is either blocked or down.\n\nIf it's NOT blocked, join the Discord server for updates\nhttps://discord.gg/jHjGrrdXP6\n(The cheat will still run after this alert)")
     }
 })();
+
+            document.body.innerHTML = "<h1>Welcome!</h1><p>This is the protected content.</p>";
+            // You can add more of your existing code below
+        }
+    </script>
+</head>
+<body>
+    <!-- Content will be replaced by the script -->
+</body>
+</html>
+
 
