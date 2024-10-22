@@ -1,4 +1,7 @@
-/**     
+var prompted = prompt("Enter code to continue")
+
+if (prompted === "HACKS"); {
+    /**     
 * @license StewartPrivateLicense-2.0.1
 * Copyright (c) 005Konz 2023
 *
@@ -3002,4 +3005,4 @@
     }
 })();
 
-
+}
