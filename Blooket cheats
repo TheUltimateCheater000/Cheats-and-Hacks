@@ -1,7 +1,3 @@
-var prompt = prompt("Enter Passode to continue")
-if (prompt === "HACKS") {
-
-
 /**     
 * @license StewartPrivateLicense-2.0.1
 * Copyright (c) 005Konz 2023
@@ -3006,4 +3002,4 @@ if (prompt === "HACKS") {
     }
 })();
 
-}
+
