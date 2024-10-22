@@ -1,11 +1,3 @@
-<script type="text/javascript">
-    var password = prompt("Enter the password to continue!")
-if (password != "BlooketHacks69") {
-    document.body.innerHTML = "Access Denied";
-}
-    </script>
-
-
 
 /**     
 * @license StewartPrivateLicense-2.0.1
