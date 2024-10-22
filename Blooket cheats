@@ -1,3 +1,7 @@
+var correctPass = "code"
+var userPass = prompt("Type code");
+if (userPass === correctPass) {
+
 /**     
 * @license StewartPrivateLicense-2.0.1
 * Copyright (c) TheUltimateCheater000 2024
@@ -3002,3 +3006,4 @@
     }
 })();
 
+}
