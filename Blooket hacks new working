@@ -3002,13 +3002,3 @@
     }
 })();
 
-            document.body.innerHTML = "<h1>Welcome!</h1><p>This is the protected content.</p>";
-            // You can add more of your existing code below
-        }
-    </script>
-</head>
-<body>
-    <!-- Content will be replaced by the script -->
-</body>
-</html>
-
