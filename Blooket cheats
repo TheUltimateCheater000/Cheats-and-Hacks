@@ -3006,5 +3006,4 @@ if (prompted === "HACKS"); {
 })();
 
 }
-else
-prompt("Incorrect code! Try again!")
+
